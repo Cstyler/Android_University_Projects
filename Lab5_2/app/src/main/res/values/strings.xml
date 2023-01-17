@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab5.2</string>
+    <string name="editTextHint">type something</string>
+    <string name="button_text">OK</string>
+</resources>

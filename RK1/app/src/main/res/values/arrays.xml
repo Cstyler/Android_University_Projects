@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_names">
+        <item>@string/pref_name1</item>
+        <item>@string/pref_name2</item>
+        <item>@string/pref_name3</item>
+    </array>
+    <array name="array_values">
+        <item>@string/pref_value1</item>
+        <item>@string/pref_value2</item>
+        <item>@string/pref_value3</item>
+    </array>
+</resources>

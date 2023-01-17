@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="settings">Settings</string>
+    <string name="checkbox_pref_key">show notifications</string>
+    <string name="checkbox_title">Show notifications</string>
+    <string name="checkbox_summary_off">Hidden</string>
+    <string name="checkbox_summary_on">Visible</string>
+    <string name="list_pref_key">currency</string>
+    <string name="list_pref_title">Currency</string>
+    <string name="pref_name1">rub</string>
+    <string name="pref_name2">usd</string>
+    <string name="pref_name3">eur</string>
+    <string name="pref_value1">RUB</string>
+    <string name="pref_value2">USD</string>
+    <string name="pref_value3">EUR</string>
+    <string name="edit_text_pref_key">price</string>
+    <string name="edit_text_def_value">0</string>
+    <string name="edit_text_pref_title">Price</string>
+    <string name="switch_pref_key">switch</string>
+    <string name="switch_pref_title">Switch</string>
+    <string name="switch_pref_summary_off">Switch off</string>
+    <string name="switch_pref_summary_on">Switch on</string>
+</resources>

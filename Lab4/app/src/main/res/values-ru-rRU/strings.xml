@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаба4</string>
+    <string name="main_title">Основной экран</string>
+    <string name="daughter_title">Дочерний экран</string>
+    <string name="settings">Сменить язык</string>
+    <string name="daughter_button_text">Открыть дочерний экран</string>
+    <string name="webbrowser_button_text">Открыть google.com</string>
+    <string name="share_button_text">Поделиться текстом</string>
+    <string name="map_button_text">Открыть карту</string>
+    <string name="sms_button_text">Отправить sms</string>
+    <string name="done">Готово</string>
+    <string name="your_login">Ваш логин</string>
+</resources>

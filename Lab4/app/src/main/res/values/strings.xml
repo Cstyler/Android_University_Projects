@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="main_title">Main screen</string>
+    <string name="daughter_title">Daughter screen</string>
+    <string name="settings">Change language</string>
+    <string name="daughter_button_text">Open daughter screen</string>
+    <string name="webbrowser_button_text">Open google.com</string>
+    <string name="share_button_text">Share text</string>
+    <string name="map_button_text">Open map</string>
+    <string name="sms_button_text">Send sms</string>
+    <string name="done">Done</string>
+    <string name="your_login">Your login</string>
+</resources>

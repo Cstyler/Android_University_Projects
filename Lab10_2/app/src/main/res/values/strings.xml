@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab10pt2</string>
+    <string name="button2Text">Add Name</string>
+    <string name="editTextHint">Name</string>
+    <string name="editText3Hint">Grade</string>
+    <string name="buttonText">Retrive student</string>
+    <string name="deleteButtonText">Delete All</string>
+    <string name="empty_string_toast_text">You must supply a name</string>
+</resources>

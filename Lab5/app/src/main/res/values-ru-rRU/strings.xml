@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаба5</string>
+    <string name="title">Лента новостей</string>
+    <string name="settings">Сменить язык</string>
+    <string name="refresh">Обновить</string>
+</resources>

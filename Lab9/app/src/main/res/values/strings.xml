@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab9</string>
+    <string name="create_button_text">Create file</string>
+    <string name="dialog_delete_file_title">Delete the file?</string>
+    <string name="dialog_delete_file_yes">Yes</string>
+    <string name="dialog_delete_file_no">No</string>
+</resources>

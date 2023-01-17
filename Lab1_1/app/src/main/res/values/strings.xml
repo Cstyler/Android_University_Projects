@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab11</string>
+    <string name="send_broadcast">Send broadcast</string>
+    <string name="start_service">Start service</string>
+</resources>
